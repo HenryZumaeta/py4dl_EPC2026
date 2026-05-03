@@ -1,5 +1,5 @@
 # Python para Deep Learnig
-Repositorio creado en para las clases de Deep Learning con Python
+Repositorio creado para las clases de Deep Learning con Python
 
 # Fecha de creación: 03 de mayo del 2026
 
